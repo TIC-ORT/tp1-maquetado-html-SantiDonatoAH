@@ -7,3 +7,11 @@
 body {
     font-family: Arial, sans-serif;
 }
+
+header {
+    background-color: #fdd17a;
+    display: flex;
+    padding: 40px;
+    align-items: center;
+    gap: 40px;
+}
